@@ -1,5 +1,8 @@
 # PRÁCTICAS MÓDULO CLOUD
 
+Docker hub: https://hub.docker.com/r/daferpe/mycloud_lab
+Travis: https://travis-ci.org/github/daferpe/cloud-lab
+
 ## Preparación
 
 * Cuenta de [Docker Hub](https://hub.docker.com/)
